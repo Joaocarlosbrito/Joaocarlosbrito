@@ -11,5 +11,5 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
-  <h1>Apaixonado por tecnologia, vivendo e aprendendo constantimente.</h1><br/>
+  <h1>Apaixonado por tecnologia, aprendendo constantimente.</h1><br/>
   <h2>Iniciando na área da programação!</h2>
